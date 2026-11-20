@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/tiny-chess-01/miuoas47-gif/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 [![reward](https://make.fun/badge/tiny-chess-01/miuoas47-gif/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
-A chess engine in 3,973 bytes of Python: alpha-beta search with a transposition table, quiescence search, MVV-LVA + dual killer move ordering, and a tuned material + piece-square evaluation, packed with lzma. It plays through the make.fun env protocol with a fixed node budget, so every run is deterministic.
+A chess engine in 3,498 bytes of Python: alpha-beta search with a transposition table, quiescence search, MVV-LVA + dual killer move ordering, and a tuned material + piece-square evaluation, packed with lzma. It plays through the make.fun env protocol with a fixed node budget, so every run is deterministic.
 
 ## Run it
 
